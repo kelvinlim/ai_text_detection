@@ -4,11 +4,10 @@ Zero-shot AI-generated text detection for NIH grant applications using **Binocul
 
 ## Hardware
 
-- **Mac Studio** with Apple M4 Max
-- 14 CPU cores (10 Performance + 4 Efficiency)
-- 32 GPU cores (Metal 4)
-- 96 GB unified memory
-- Runs natively on Apple Silicon via MPS backend in float16
+- **Mac Studio** — Apple M2 Max, 64 GB unified memory
+- **MacBook Pro** — Apple M4 Max, 36 GB unified memory
+- Runs natively on Apple Silicon via MPS (Metal) backend in float16
+- Scores are reproducible across both machines (differences ≤ 0.0001)
 
 ## Tech Stack
 

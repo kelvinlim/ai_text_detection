@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project evaluates **Binoculars** (ICML 2024) as a zero-shot detector for AI-generated text in NIH grant applications. It runs locally on Mac Studio (M4 Max, 14 CPU cores, 32 GPU cores, 96 GB unified memory) using Apple MPS (Metal) acceleration.
+This project evaluates **Binoculars** (ICML 2024) as a zero-shot detector for AI-generated text in NIH grant applications. It runs locally on Mac Studio (M2 Max, 64 GB) and MacBook Pro (M4 Max, 36 GB) using Apple MPS (Metal) acceleration. Scores are reproducible across both machines using Apple MPS (Metal) acceleration.
 
 ## Tech Stack
 
