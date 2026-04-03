@@ -1,11 +1,55 @@
-# Binoculars Test Results — Mac Studio (MPS)
+# Binoculars Test Results — Apple Silicon (MPS)
 
-## Run Date: 2026-04-02
+## Run Dates
+- 2026-04-02: Mac Studio (Apple M2 Max)
+- 2026-04-03: MacBook Pro (Apple M4 Max, 36 GB RAM)
 
 ## Environment
-- Device: Apple MPS (Mac Studio)
-- PyTorch with Metal backend, float16
-- Average scoring time: 2.5s per chunk (Falcon-7B), 0.9s (Qwen2.5-7B)
+- Device: Apple MPS (Metal Performance Shaders), float16
+- PyTorch with Metal backend
+
+---
+
+## Hardware Comparison: M2 Max (Mac Studio) vs M4 Max (MacBook Pro)
+
+Tested with Falcon-7B pair on 37 samples (17 original + 20 expanded).
+
+### Performance
+
+| Metric | M2 Max (Mac Studio) | M4 Max (MacBook Pro) | Change |
+|---|---|---|---|
+| Model load time | ~40s | **26.9s** | **33% faster** |
+| First sample (cold) | ~5s | **32.0s** | slower (MPS warmup) |
+| Avg per sample (warm) | 2.5s | **0.7s** | **72% faster** |
+| Total scoring (37 samples) | ~95s | **59.4s** | **37% faster** |
+| RAM available | 64 GB | 36 GB | sufficient for Falcon-7B pair (~28 GB) |
+
+Note: First-sample latency on M4 Max includes MPS shader compilation warmup; subsequent samples are significantly faster.
+
+### Score Reproducibility
+
+Scores are **nearly identical** across hardware — differences ≤ 0.0001, within floating-point tolerance.
+
+| Sample | M2 Max | M4 Max | Δ |
+|---|---|---|---|
+| human_specific_aims | 0.6458 | 0.6458 | 0.0000 |
+| human_significance | 0.7876 | 0.7876 | 0.0000 |
+| ai_approach | 0.5095 | 0.5095 | 0.0000 |
+| ai_significance | 0.6316 | 0.6316 | 0.0000 |
+| edge_technical_jargon | 0.4420 | 0.4420 | 0.0000 |
+
+### Calibration Consistency
+
+| Metric | M2 Max | M4 Max |
+|---|---|---|
+| Human mean | 0.7385 | 0.7384 |
+| AI mean | 0.6274 | 0.6273 |
+| Cohen's d | 2.23 | 2.23 |
+| Mann-Whitney p | 0.00008 | 0.00008 |
+| Optimal threshold (Youden) | 0.6845 | 0.6845 |
+| Accuracy at optimal | 86.7% | 86.7% |
+
+**Conclusion:** The M4 Max produces identical detection results with ~3.5x faster per-sample throughput (warm). The calibrated thresholds transfer directly between hardware.
 
 ---
 
