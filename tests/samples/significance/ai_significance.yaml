@@ -1,0 +1,12 @@
+id: ai_significance
+label: ai_generated
+section: Significance
+category: ai
+origin: claude_generated
+source: claude-3.5-sonnet
+date_created: '2026-04-01'
+prompt: |-
+  Write a Significance section for an NIH grant proposal about cardiac regeneration using engineered extracellular vesicles derived from iPSC-cardiomyocytes.
+prompt_reconstructed: true
+text: |-
+  Cardiovascular disease remains the leading cause of morbidity and mortality worldwide, accounting for approximately 17.9 million deaths annually according to the World Health Organization. Heart failure, a common endpoint of various cardiovascular conditions, affects over 64 million people globally and is associated with significant healthcare costs and reduced quality of life. Current therapeutic approaches, including pharmacological interventions such as ACE inhibitors, beta-blockers, and mineralocorticoid receptor antagonists, have improved survival outcomes but have not adequately addressed the fundamental problem of cardiomyocyte loss and fibrotic remodeling. Therefore, there is an urgent and unmet need for innovative strategies that promote cardiac regeneration and restore functional myocardium. The proposed research addresses this critical gap by investigating the therapeutic potential of engineered extracellular vesicles derived from induced pluripotent stem cell-derived cardiomyocytes as a novel cell-free approach to cardiac repair.

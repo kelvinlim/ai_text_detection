@@ -1,3 +1,4 @@
 grant_assist
-
-
+__pycache__/
+*.pyc
+.venv/

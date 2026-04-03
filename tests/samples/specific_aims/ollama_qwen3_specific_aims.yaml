@@ -1,0 +1,12 @@
+id: ollama_qwen3_specific_aims
+label: ai_generated
+section: Specific Aims
+category: ollama
+origin: ollama_generated
+source: qwen3:8b
+date_created: '2026-04-02'
+prompt: |-
+  Write a Specific Aims section for an NIH grant about neuroinflammation in Alzheimer's disease.
+prompt_reconstructed: true
+text: |-
+  Aim 1: To elucidate the dynamic interplay between neuroinflammation and amyloid-beta pathology in Alzheimer's disease progression using in vivo imaging and transcriptomic profiling. Aim 2: To identify key molecular pathways and cell-type-specific mechanisms mediating neuroinflammatory responses in human brain tissues from Alzheimer's patients. Aim 3: To evaluate the therapeutic potential of targeting microglial activation and complement signaling in preclinical models of Alzheimer's disease, with emphasis on translational relevance for early intervention. Aim 4: To develop and validate non-invasive biomarkers of neuroinflammation for early detection and monitoring of Alzheimer's disease progression. Aim 5: To establish a framework for integrating multi-omics data to prioritize drug targets and predict patient responses to anti-inflammatory therapies.

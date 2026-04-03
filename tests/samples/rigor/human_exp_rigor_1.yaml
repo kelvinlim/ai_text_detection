@@ -1,0 +1,8 @@
+id: human_exp_rigor_1
+label: human
+section: Rigor and Reproducibility
+category: human_expanded
+origin: handwritten
+date_created: '2026-04-01'
+text: |-
+  We learned the hard way about biological sex as a variable in this model. Our first two cohorts were all male mice because, frankly, that's what the postdoc had available at the time. When we finally ran females for the R21 resubmission, the effect size on hepatic steatosis was about half of what we'd reported. Reviewer 2 was not pleased, and rightly so. Going forward, all experiments in this proposal use equal numbers of male and female Ldlr-/- mice on a C57BL/6J background. We power each experiment for sex as a covariate in a two-way ANOVA, which means larger group sizes (n=15/sex/group instead of 10), and yes, that's reflected in the budget. Sample randomization uses a computer-generated block design and the histology scoring is done blinded by a pathologist in Dr. Wendt's lab who doesn't know our hypotheses.

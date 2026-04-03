@@ -1,0 +1,12 @@
+id: ai_exp_environment_1
+label: ai_generated
+section: Environment
+category: ai_expanded
+origin: claude_generated
+source: claude-3.5-sonnet
+date_created: '2026-04-01'
+prompt: |-
+  Write an Environment section for an NIH grant describing a well-equipped biomedical research center with tissue culture, imaging core, AAALAC animal facility, and HPC cluster.
+prompt_reconstructed: true
+text: |-
+  The research environment at the host institution provides outstanding resources and infrastructure to support the successful completion of the proposed research. The principal investigator's laboratory is located in the state-of-the-art Biomedical Research Center, which was constructed in 2018 and features modern laboratory spaces equipped with advanced instrumentation. The facility includes dedicated tissue culture rooms with class II biological safety cabinets, a molecular biology suite with real-time PCR systems and gel documentation equipment, and a shared imaging core facility housing confocal and super-resolution microscopy platforms. The institution's animal facility is AAALAC-accredited and provides comprehensive veterinary support and specialized housing for transgenic mouse colonies. The computational resources available include a high-performance computing cluster with GPU nodes suitable for machine learning applications and bioinformatic analyses.

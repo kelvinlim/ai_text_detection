@@ -1,0 +1,8 @@
+id: human_exp_background_1
+label: human
+section: Background
+category: human_expanded
+origin: handwritten
+date_created: '2026-04-01'
+text: |-
+  The idea that gut microbiota influence brain function sounded like hand-waving to most of us in the field until maybe 2015 or so. Our lab was firmly in the skeptics camp. But then we ran a pilot where we colonized germ-free C57BL/6J mice with stool from patients with treatment-resistant depression, and honestly the behavioral results knocked us sideways. The colonized mice showed a 40% reduction in sucrose preference (p=0.008, n=8/group) and spent significantly more time immobile in the forced swim test. We still aren't totally sure what's driving it — could be short-chain fatty acids, could be tryptophan metabolism, could be vagal signaling. Probably all three. The point is, we went from skeptics to writing this R01 in about eighteen months, which tells you how compelling the data were.

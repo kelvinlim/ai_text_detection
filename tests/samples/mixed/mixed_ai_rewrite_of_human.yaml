@@ -1,0 +1,9 @@
+id: mixed_ai_rewrite_of_human
+label: mixed
+section: Innovation (mixed)
+category: mixed
+origin: mixed_edited
+date_created: '2026-04-01'
+description: Human concept, AI-rewritten for 'clarity'
+text: |-
+  Our approach introduces several key innovations that distinguish it from existing methodologies in the field. The development of our novel microfluidic platform, which we have termed ChemoTrap, enables the simultaneous assessment of chemotactic responses across 96 independent gradient conditions using as few as 50,000 cells per experiment. This represents a significant advance over conventional Boyden chamber assays, which typically require 500,000 cells per condition and can only test one gradient at a time. Furthermore, ChemoTrap incorporates real-time live-cell imaging capabilities that allow for the quantitative analysis of cell migration speed, directionality, and persistence at single-cell resolution. We have validated this platform using human neutrophils responding to fMLP gradients and demonstrated excellent reproducibility with a coefficient of variation of less than 8% across biological replicates.

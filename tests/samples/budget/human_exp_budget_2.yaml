@@ -1,0 +1,8 @@
+id: human_exp_budget_2
+label: human
+section: Budget Justification
+category: human_expanded
+origin: handwritten
+date_created: '2026-04-01'
+text: |-
+  Travel: we're requesting $3,500/year for the PI or postdoc to attend the Society for Neuroscience annual meeting and one specialized workshop. Last year the Computational Neuroscience workshop in Lisbon was incredibly useful — our postdoc came back with a completely new approach to fitting the drift-diffusion model that saved us probably two months of dead-end work. Publication costs: we budget $4,000/year based on our experience that open-access fees at journals like eLife and PNAS run between $2,500 and $5,000 per article. Mouse costs: 200 breeding pairs at $0.85/cage/day comes to roughly $62,000 over the project period. This seems like a lot but the Cre-dependent intersectional strategy requires maintaining four separate colonies. We looked into cryopreserving some lines to save money but the rederivation timeline doesn't work with the experimental schedule.

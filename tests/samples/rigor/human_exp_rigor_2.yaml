@@ -1,0 +1,8 @@
+id: human_exp_rigor_2
+label: human
+section: Rigor and Reproducibility
+category: human_expanded
+origin: handwritten
+date_created: '2026-04-01'
+text: |-
+  Antibody validation has been a real headache for this project. We went through four different anti-phospho-STAT3 (Y705) antibodies before finding one that gave consistent results in our IHC protocol on FFPE sections. The Cell Signaling 9145 clone works, but only if you do antigen retrieval with citrate buffer at pH 6.0 for exactly 20 minutes — 15 minutes gives patchy staining, 25 minutes destroys the morphology. We've documented all of this in our lab protocols on protocols.io (dx.doi.org/10.17504/protocols.io.xyz). For the RNA-seq experiments, we run each sample on a Bioanalyzer and reject anything with RIN below 8.0. Surprisingly, the mouse liver samples have been fine, but the human biopsies from our collaborator at Cleveland Clinic average around 7.2, so we may need to switch to a degradation-tolerant library prep like QuantSeq.

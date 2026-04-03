@@ -1,0 +1,12 @@
+id: ai_exp_biosketch_1
+label: ai_generated
+section: Biosketch Narrative
+category: ai_expanded
+origin: claude_generated
+source: claude-3.5-sonnet
+date_created: '2026-04-01'
+prompt: |-
+  Write a Biosketch personal statement for an NIH grant PI who studies neurodegeneration and Alzheimer's disease, established their lab in 2017, has R01 and R21 funding.
+prompt_reconstructed: true
+text: |-
+  The principal investigator has established a robust and productive research program focused on understanding the molecular mechanisms of neurodegeneration and developing novel therapeutic strategies for Alzheimer's disease. Since establishing an independent laboratory in 2017, the principal investigator has secured extramural funding totaling over 3.5 million dollars, including an R01, an R21, and an Alzheimer's Association Research Grant. The laboratory has published 28 peer-reviewed manuscripts in high-impact journals, including Nature Neuroscience, Cell Reports, and the Journal of Neuroscience. The principal investigator serves on multiple NIH study sections and editorial boards, reflecting recognition as an established expert in the field. The research team currently comprises two postdoctoral fellows, three graduate students, and two undergraduate researchers, providing a collaborative and mentored training environment.

@@ -1,0 +1,8 @@
+id: human_exp_environment_1
+label: human
+section: Environment
+category: human_expanded
+origin: handwritten
+date_created: '2026-04-01'
+text: |-
+  The PI's lab is in the Biomedical Research Building, which was renovated in 2019 and has dedicated BSL-2 space with two Class II biosafety cabinets, a Keyence BZ-X810 fluorescence microscope that we share with Dr. Patel's group, and a tissue culture room that, I'll be honest, is a bit cramped for the number of people using it. We've requested additional space in the new wing but that won't be ready until 2027. For the flow cytometry work, we use the university core facility, which has a BD FACSAria III sorter and a Cytek Aurora spectral analyzer. Wait times for the sorter can be 2-3 weeks during peak periods so we typically batch our sorting experiments. The mouse colony is maintained in a specific-pathogen-free barrier facility run by the Department of Comparative Medicine, with per diem costs of $0.85/cage/day.

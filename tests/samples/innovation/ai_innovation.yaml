@@ -1,0 +1,12 @@
+id: ai_innovation
+label: ai_generated
+section: Innovation
+category: ai
+origin: claude_generated
+source: claude-3.5-sonnet
+date_created: '2026-04-01'
+prompt: |-
+  Write an Innovation section for an NIH grant proposal about how epitranscriptomic modifications regulate immune cell metabolism in solid tumor immunology, using single-cell multi-omics.
+prompt_reconstructed: true
+text: |-
+  The proposed research is innovative in several important respects. First, it represents the first systematic investigation of the intersection between epitranscriptomic modifications and immune cell metabolism in the context of solid tumor immunology. While previous studies have examined m6A modifications in tumor cells and others have characterized metabolic reprogramming in tumor-infiltrating lymphocytes, no prior work has integrated these two rapidly evolving fields to understand how RNA modifications regulate the metabolic fitness of anti-tumor immune responses. Second, our approach leverages cutting-edge single-cell multi-omics technologies, including paired scRNA-seq and scATAC-seq with simultaneous measurement of m6A modifications using the recently developed DART-seq protocol. This multi-modal approach will provide unprecedented resolution of the epitranscriptomic landscape at the single-cell level. Third, the computational framework we have developed integrates machine learning algorithms with mechanistic pathway modeling to identify causal relationships between RNA modifications and metabolic phenotypes.

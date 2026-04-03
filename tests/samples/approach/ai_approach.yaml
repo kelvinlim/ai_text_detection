@@ -1,0 +1,12 @@
+id: ai_approach
+label: ai_generated
+section: Approach
+category: ai
+origin: claude_generated
+source: claude-3.5-sonnet
+date_created: '2026-04-01'
+prompt: |-
+  Write an Approach section for an NIH grant proposal about BDNF-TrkB signaling in activity-dependent synaptic plasticity, using rat hippocampal neuronal cultures and electrophysiology.
+prompt_reconstructed: true
+text: |-
+  To achieve the objectives outlined in Specific Aim 1, we will employ a comprehensive and rigorous experimental approach. We will first establish primary neuronal cultures from embryonic day 18 rat hippocampal tissue using well-established protocols previously optimized in our laboratory. Neurons will be cultured on poly-D-lysine-coated coverslips in Neurobasal medium supplemented with B27 and GlutaMAX for 14 days in vitro to ensure mature synaptic development. To investigate the role of BDNF-TrkB signaling in activity-dependent synaptic plasticity, we will utilize a combination of pharmacological and genetic approaches. Specifically, we will treat cultures with recombinant human BDNF at concentrations of 10, 50, and 100 ng/mL for 30 minutes, followed by electrophysiological recordings of miniature excitatory postsynaptic currents using whole-cell patch-clamp techniques. Statistical analyses will be performed using one-way ANOVA with Tukey's post-hoc test for multiple comparisons, with significance set at p < 0.05.

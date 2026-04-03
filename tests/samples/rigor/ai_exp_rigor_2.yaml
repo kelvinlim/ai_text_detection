@@ -1,0 +1,12 @@
+id: ai_exp_rigor_2
+label: ai_generated
+section: Rigor and Reproducibility
+category: ai_expanded
+origin: claude_generated
+source: claude-3.5-sonnet
+date_created: '2026-04-01'
+prompt: |-
+  Write a Rigor and Reproducibility section for an NIH grant, covering quality control for RNA-seq, immunohistochemistry validation, blinded analysis, and statistical methods.
+prompt_reconstructed: true
+text: |-
+  To ensure the highest standards of scientific rigor, the proposed studies will employ a comprehensive quality control framework throughout all phases of the research. Biological samples will be processed using standardized operating procedures that have been validated and documented in our laboratory protocols. RNA integrity will be assessed using the Agilent Bioanalyzer system, with a minimum RNA Integrity Number of 8.0 required for downstream sequencing applications. For immunohistochemical analyses, antibody specificity will be confirmed through the use of knockout tissue controls and peptide competition assays. All quantitative analyses will be performed by investigators blinded to experimental conditions, and results will be independently verified by a second analyst. Statistical methods will be selected a priori based on the distribution characteristics of the data, with parametric tests used when assumptions of normality are met and non-parametric alternatives employed otherwise.

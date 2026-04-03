@@ -1,0 +1,9 @@
+id: edge_non_english
+label: uncertain
+section: Spanish Abstract
+category: edge_case
+origin: handwritten
+date_created: '2026-04-01'
+description: Non-English text — Binoculars is English-centric, expect degraded accuracy
+text: |-
+  El objetivo de este estudio es investigar los mecanismos moleculares que subyacen a la resistencia a la quimioterapia en el cáncer de mama triple negativo. Nuestros datos preliminares sugieren que la activación aberrante de la vía de señalización Notch contribuye a la supervivencia de las células madre tumorales después del tratamiento con doxorrubicina. Proponemos utilizar modelos de xenoinjerto derivados de pacientes para evaluar la eficacia de inhibidores gamma-secretasa en combinación con regímenes quimioterapéuticos estándar.

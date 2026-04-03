@@ -1,0 +1,12 @@
+id: ollama_llama31_specific_aims
+label: ai_generated
+section: Specific Aims
+category: ollama
+origin: ollama_generated
+source: llama3.1:8b
+date_created: '2026-04-02'
+prompt: |-
+  Write a Specific Aims section for an NIH grant about neuroinflammation in Alzheimer's disease.
+prompt_reconstructed: true
+text: |-
+  The specific aims of this proposal are to investigate the role of neuroinflammation in the pathogenesis of Alzheimer's disease (AD) and to elucidate the underlying mechanisms by which inflammation contributes to disease progression. Aim 1: To identify the key inflammatory cell types and mediators involved in AD pathology using a combination of immunohistochemical and flow cytometric analysis of post-mortem brain tissue from AD patients and non-demented controls. Aim 2: To determine the functional consequences of neuroinflammation on AD-related molecular pathways, including amyloid-beta production and clearance, tau phosphorylation, and neuronal integrity, using in vitro and in vivo models of neuroinflammation. Aim 3: To explore the therapeutic potential of targeting inflammatory pathways in AD using small molecule inhibitors and antibody therapies that selectively modulate inflammatory responses, and to assess their effects on disease-relevant biomarkers and cognition in a mouse model of AD.

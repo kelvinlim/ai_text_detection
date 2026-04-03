@@ -1,0 +1,9 @@
+id: mixed_human_start_ai_end
+label: mixed
+section: Significance (mixed)
+category: mixed
+origin: mixed_edited
+date_created: '2026-04-01'
+description: First half human-written, second half AI-polished
+text: |-
+  We got into this project almost by accident. A postdoc in the lab was running a proteomics experiment on retinal ganglion cells and noticed that the expression of complement component C1q was wildly elevated — like 15-fold over controls — in samples from diabetic donors. At first we assumed it was contamination or a batch effect. It took us almost a year to convince ourselves it was real, and another six months to figure out that the C1q was coming from the ganglion cells themselves, not from infiltrating immune cells. This finding has significant implications for our understanding of diabetic retinopathy pathogenesis. The complement system has traditionally been viewed as a component of innate immunity that operates primarily through serum proteins produced by hepatocytes. However, accumulating evidence from multiple laboratories has demonstrated that local complement production by resident tissue cells plays a critical role in maintaining homeostasis and responding to cellular stress. Our discovery that retinal ganglion cells upregulate C1q in the diabetic milieu suggests a novel autocrine or paracrine mechanism by which neurons may inadvertently tag their own synapses for elimination, thereby contributing to the synaptic loss that precedes overt neurodegeneration.

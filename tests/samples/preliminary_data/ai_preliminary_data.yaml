@@ -1,0 +1,12 @@
+id: ai_preliminary_data
+label: ai_generated
+section: Preliminary Data
+category: ai
+origin: claude_generated
+source: claude-3.5-sonnet
+date_created: '2026-04-01'
+prompt: |-
+  Write a Preliminary Data section for an NIH grant about tumor-associated macrophage subpopulations in non-small cell lung cancer, using single-cell RNA sequencing.
+prompt_reconstructed: true
+text: |-
+  Our preliminary studies provide strong support for the proposed research and demonstrate the feasibility of our experimental approach. In an initial series of experiments, we performed comprehensive transcriptomic profiling of tumor-associated macrophages isolated from a cohort of 45 patients with non-small cell lung cancer using single-cell RNA sequencing. Our analysis revealed the existence of a previously uncharacterized macrophage subpopulation, which we designated as TAM-3, characterized by high expression of SPP1, TREM2, and MARCO. Importantly, the abundance of TAM-3 macrophages was significantly correlated with poor overall survival (hazard ratio = 2.34, 95% CI [1.56, 3.51], p < 0.001) and resistance to immune checkpoint inhibitor therapy. Furthermore, in vitro co-culture experiments demonstrated that TAM-3 macrophages suppressed CD8+ T cell proliferation by 67% compared to classical M1 macrophages (p < 0.0001, Student's t-test), suggesting a potent immunosuppressive function.

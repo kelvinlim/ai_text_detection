@@ -1,0 +1,8 @@
+id: human_significance
+label: human
+section: Significance
+category: human
+origin: handwritten
+date_created: '2026-04-01'
+text: |-
+  Pancreatic ductal adenocarcinoma remains one of the most lethal cancers, with a five-year survival rate stubbornly stuck around 12%. The field has poured enormous effort into immunotherapy approaches, but PDAC tumors are notoriously immunologically cold. Part of the problem — and this is what makes our angle different — is that most studies focus on T cell exclusion from the tumor parenchyma and ignore what's happening in the perineural niche. We stumbled onto this in 2019 when a graduate student noticed that Schwann cells surrounding invaded nerves were expressing PD-L1 at levels comparable to tumor cells themselves. That finding sat in our notebooks for two years because we weren't sure it wasn't an artifact of our staining protocol. It wasn't. Three independent replications later, we believe perineural Schwann cell PD-L1 constitutes a previously unrecognized immune checkpoint niche.

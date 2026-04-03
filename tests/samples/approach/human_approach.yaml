@@ -1,0 +1,8 @@
+id: human_approach
+label: human
+section: Approach
+category: human
+origin: handwritten
+date_created: '2026-04-01'
+text: |-
+  Aim 2 will test whether pharmacological inhibition of DYRK1A rescues the synaptic deficit in our Ts65Dn mouse model. We initially planned to use the DYRK1A inhibitor harmine, but pilot studies revealed unacceptable off-target effects on MAO-A at the doses needed for CNS penetrance (tremors, weight loss >15% in 3/10 mice). Instead, we switched to the more selective compound ALGERNON (IC50 = 76 nM for DYRK1A vs >10 µM for MAO-A), which we obtain through an MTA with Dr. Bhatt's lab at Kyoto University. Mice will receive daily i.p. injections of ALGERNON (10 mg/kg) or vehicle for 21 days starting at P60. We chose P60 because our electrophysiology data (Fig. 4C) indicates that the LTP deficit in CA1 is fully established by this age but hippocampal plasticity is still responsive to intervention. Honestly if we'd started this aim two years ago we would have picked P30, but the newer data makes P60 the right call.

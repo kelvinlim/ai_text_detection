@@ -1,0 +1,8 @@
+id: human_specific_aims
+label: human
+section: Specific Aims
+category: human
+origin: handwritten
+date_created: '2026-04-01'
+text: |-
+  Despite three decades of research, the mechanisms by which chronic stress accelerates atherosclerotic plaque formation remain poorly understood. Our lab has spent the past 8 years characterizing the neuroimmune axis in ApoE-/- mice and we keep running into the same puzzle: sympathetic nerve fibers innervating perivascular adipose tissue release norepinephrine at concentrations 10-fold higher than circulating levels, yet the downstream macrophage polarization profile doesn't match what you'd predict from catecholamine signaling alone. Something else is going on. We suspect co-released neuropeptide Y (NPY) acts synergistically with NE to skew macrophages toward an M1 phenotype via Y1R-mediated NF-kB activation. Preliminary data from our R21 (Fig. 2A) shows that Y1R blockade with BIBP3226 reduced plaque area by 38% in stressed mice (p=0.003, n=12/group), which was honestly a bigger effect than we expected.

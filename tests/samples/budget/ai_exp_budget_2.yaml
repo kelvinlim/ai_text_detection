@@ -1,0 +1,12 @@
+id: ai_exp_budget_2
+label: ai_generated
+section: Budget Justification
+category: ai_expanded
+origin: claude_generated
+source: claude-3.5-sonnet
+date_created: '2026-04-01'
+prompt: |-
+  Write a Budget Justification section for an NIH grant covering conference travel, open-access publication costs, and a benchtop flow cytometer equipment purchase.
+prompt_reconstructed: true
+text: |-
+  Travel funds are requested to support the dissemination of research findings at national and international scientific conferences. The principal investigator and postdoctoral associate will attend two conferences annually, including the Annual Meeting of the American Association for Cancer Research and the International Conference on Tumor Microenvironment. These meetings provide valuable opportunities for presenting research findings, receiving feedback from the scientific community, and establishing collaborative relationships with investigators at other institutions. Publication costs are budgeted to support open-access publication of research findings in peer-reviewed journals, in accordance with NIH public access policies. Equipment funds are requested for the purchase of a benchtop flow cytometer that will significantly enhance the efficiency of routine immunophenotyping experiments and reduce dependence on the shared core facility, thereby accelerating the pace of the proposed research.

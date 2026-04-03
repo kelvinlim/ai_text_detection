@@ -1,0 +1,12 @@
+id: ai_exp_rigor_1
+label: ai_generated
+section: Rigor and Reproducibility
+category: ai_expanded
+origin: claude_generated
+source: claude-3.5-sonnet
+date_created: '2026-04-01'
+prompt: |-
+  Write a Rigor and Reproducibility section for an NIH grant, covering sex as a biological variable, power analysis, randomization, blinding, and antibody validation.
+prompt_reconstructed: true
+text: |-
+  The proposed research incorporates multiple strategies to ensure scientific rigor and reproducibility in accordance with NIH guidelines. All animal experiments will include both male and female subjects to account for potential sex-based differences in experimental outcomes. Sample sizes have been determined through rigorous power analyses based on preliminary data, with a target statistical power of 0.80 and an alpha level of 0.05. Randomization of experimental groups will be performed using computer-generated random number sequences, and investigators conducting behavioral assessments and histological analyses will be blinded to treatment conditions. All key findings will be validated through independent replication by at least two laboratory members. Data will be recorded in electronic laboratory notebooks with automated version control and timestamping. Authentication of cell lines will be performed using STR profiling, and all antibodies will be validated using appropriate positive and negative controls as recommended by the International Working Group for Antibody Validation.

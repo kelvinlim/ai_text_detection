@@ -1,0 +1,12 @@
+id: ai_exp_environment_2
+label: ai_generated
+section: Environment
+category: ai_expanded
+origin: claude_generated
+source: claude-3.5-sonnet
+date_created: '2026-04-01'
+prompt: |-
+  Write an Environment section for an NIH grant describing a biomedical engineering department with shared core facilities, proximity to a medical school, and support for early-career investigators.
+prompt_reconstructed: true
+text: |-
+  The institutional environment is highly conducive to the proposed research and provides a collaborative and intellectually stimulating setting for interdisciplinary investigation. The Department of Biomedical Engineering, in which the principal investigator holds a primary appointment, has experienced significant growth in recent years, with the recruitment of several new faculty members with complementary expertise in biomaterials, tissue engineering, and computational biology. The department maintains shared core facilities for materials characterization, including scanning electron microscopy, X-ray diffraction, and mechanical testing equipment. Additionally, the principal investigator benefits from close proximity to the School of Medicine, which facilitates productive collaborations with clinical investigators and provides access to patient samples through established tissue banking programs. The institution has demonstrated a strong commitment to supporting early-career investigators through startup packages, mentoring programs, and protected research time.

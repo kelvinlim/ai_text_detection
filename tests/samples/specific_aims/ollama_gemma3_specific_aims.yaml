@@ -1,0 +1,12 @@
+id: ollama_gemma3_specific_aims
+label: ai_generated
+section: Specific Aims
+category: ollama
+origin: ollama_generated
+source: gemma3:12b
+date_created: '2026-04-02'
+prompt: |-
+  Write a Specific Aims section for an NIH grant about microglia-derived exosomes in Alzheimer's disease.
+prompt_reconstructed: true
+text: |-
+  The overarching goal of this project is to elucidate the role of microglia-derived exosomes in propagating neuroinflammation and accelerating amyloid-beta plaque deposition in Alzheimer's disease (AD). We hypothesize that AD-affected microglia release exosomes enriched with pro-inflammatory cytokines and microRNAs, which are subsequently internalized by neighboring neurons and astrocytes, fostering a deleterious inflammatory cascade. Aim 1 will characterize the protein and microRNA cargo of exosomes released from primary microglia cultured under AD-relevant stimulation. Aim 2 will determine if exosome uptake by recipient neurons and astrocytes increases amyloid-beta production and deposition in vitro. Aim 3 will assess the impact of exosome blockade on neuroinflammation and plaque burden in a 5xFAD mouse model of AD. Successful completion of these aims will provide critical mechanistic insights into microglial exosome-mediated neuroinflammation and identify novel therapeutic targets for AD intervention.

@@ -1,0 +1,9 @@
+id: edge_too_short
+label: uncertain
+section: Short Fragment
+category: edge_case
+origin: handwritten
+date_created: '2026-04-01'
+description: Below 50-token minimum — should be flagged as unreliable
+text: |-
+  The role of BRCA1 in DNA repair is well established.

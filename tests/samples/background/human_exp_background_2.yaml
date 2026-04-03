@@ -1,0 +1,8 @@
+id: human_exp_background_2
+label: human
+section: Background
+category: human_expanded
+origin: handwritten
+date_created: '2026-04-01'
+text: |-
+  Chimeric antigen receptor T cell therapy has transformed outcomes in B-cell malignancies, but solid tumors remain a different beast entirely. We've been banging our heads against the immunosuppressive tumor microenvironment in pancreatic cancer for six years now. The main problem — and this took us embarrassingly long to figure out — isn't T cell trafficking. Our CAR-T cells actually get into the tumor just fine, at least in the KPC mouse model. They just die within 48 hours. Flow cytometry from day 2 explants shows massive upregulation of TIM-3 and LAG-3, which, okay, that's expected. But we also found elevated reactive oxygen species at levels that would kill any lymphocyte. The stellate cells are basically creating a free radical death zone. So now our approach is to armor the T cells with catalase overexpression before infusion.

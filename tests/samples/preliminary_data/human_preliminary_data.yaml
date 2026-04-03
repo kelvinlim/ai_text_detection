@@ -1,0 +1,8 @@
+id: human_preliminary_data
+label: human
+section: Preliminary Data
+category: human
+origin: handwritten
+date_created: '2026-04-01'
+text: |-
+  In a pilot cohort (N=23 treatment-naive patients with MDD, 15F/8M, mean age 34.2±7.1), we collected fMRI during a monetary incentive delay task before and after 8 weeks of SSRI treatment. Contrary to our original hypothesis, ventral striatum activation during reward anticipation did NOT predict treatment response (r=0.08, p=0.72). However — and this was the surprise — the coupling between ventral striatum and dorsomedial prefrontal cortex during reward RECEIPT was strongly predictive (AUC=0.84, 95% CI [0.71, 0.97]). This finding pushed us to rethink the model entirely. The traditional view is that anhedonia reflects blunted reward anticipation, but our data suggest it may be more about impaired integration of reward outcomes into future behavior — a computation that requires intact striatal-prefrontal communication. This is consistent with recent work from Pizzagalli's group, though they framed it differently.

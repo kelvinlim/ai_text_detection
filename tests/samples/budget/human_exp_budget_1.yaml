@@ -1,0 +1,8 @@
+id: human_exp_budget_1
+label: human
+section: Budget Justification
+category: human_expanded
+origin: handwritten
+date_created: '2026-04-01'
+text: |-
+  The postdoc salary (Dr. Kim, 100% effort) is the biggest line item and I want to explain why. This project requires someone who can do both the wet lab work (stereotaxic injections, electrophysiology, immunohistochemistry) and the computational analysis (spike sorting with Kilosort3, dimensionality reduction, Bayesian decoding models). That's a rare skill set and we're lucky to have Dr. Kim, who trained in Dr. Bhatt's systems neuro lab before joining us. The NIH salary cap applies here. For supplies: the Neuropixels 2.0 probes are $1,850 each and we typically get 3-4 good recording sessions before signal degrades. With 60 planned recording sessions across the aims, we need approximately 18 probes ($33,300). The AAV vectors for optogenetic constructs come from Addgene at $350/prep but we need high-titer custom preps from the Penn Vector Core ($2,800 per virus, 4 constructs).

@@ -1,0 +1,8 @@
+id: human_innovation
+label: human
+section: Innovation
+category: human
+origin: handwritten
+date_created: '2026-04-01'
+text: |-
+  The proposed work introduces a dual-reporter system we call TRACE-seq (Temporal Recording of Allelic Chromatin Events by sequencing). Unlike existing lineage tracing tools like CellTagging or LARRY, TRACE-seq doesn't just tell you where a cell ended up — it records the sequence of chromatin accessibility changes the cell went through to get there. The trick is a pair of competing recombinases (Cre and Flp) whose activity is gated by different enhancer elements. As enhancers open and close during differentiation, they leave a combinatorial barcode in the genomic DNA. We've been optimizing the construct design for 14 months now and the error rate is down to roughly 2 misrecombinations per 1000 events (Supplementary Fig. S4). No one else has this kind of temporal resolution at single-cell level. The closest comparable tool is scDAM-ID, which measures chromatin contacts but cannot reconstruct the order in which they occurred.

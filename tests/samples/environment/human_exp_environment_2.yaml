@@ -1,0 +1,8 @@
+id: human_exp_environment_2
+label: human
+section: Environment
+category: human_expanded
+origin: handwritten
+date_created: '2026-04-01'
+text: |-
+  Our computational work happens on a shared HPC cluster called Carbonate, which has 8 GPU nodes with NVIDIA A100s. Getting allocations is competitive — we currently have 50,000 GPU-hours per year through a departmental allocation, which was barely enough for last year's single-cell analysis. For this project we've requested a supplemental allocation of 100,000 hours. If that doesn't come through, we have a backup plan to use AWS Batch, though that eats into the supplies budget. The PI also has a local workstation with 128 GB RAM and an RTX 4090 for prototyping analyses before scaling to the cluster. For data storage we use the Research Data Archive which gives us 20 TB at no cost, plus we have an existing AWS S3 bucket for sharing large files with our collaborators at Karolinska. Honestly the data management aspect of this project is the thing that keeps me up at night.

@@ -22,16 +22,32 @@ ai_text_detection/
 │   ├── server.py               # FastAPI server (same API as grant_assist Cloud Run service)
 │   └── config.py               # Environment-based configuration
 ├── tests/
-│   ├── test_samples.py         # 17 original samples (5 human, 5 AI, 3 mixed, 4 edge)
-│   ├── test_samples_expanded.py # 20 additional calibration samples
-│   └── test_samples_generated.py # 6 Ollama-generated samples (Qwen3, Gemma3, Llama3.1)
+│   ├── samples/                # YAML sample files organized by section
+│   │   ├── specific_aims/      # Specific Aims samples (human, AI, multi-model)
+│   │   ├── significance/       # Significance samples
+│   │   ├── innovation/         # Innovation samples
+│   │   ├── approach/           # Approach samples
+│   │   ├── preliminary_data/   # Preliminary Data samples
+│   │   ├── background/         # Background samples
+│   │   ├── rigor/              # Rigor & Reproducibility samples
+│   │   ├── environment/        # Environment samples
+│   │   ├── budget/             # Budget Justification samples
+│   │   ├── biosketch/          # Biosketch Narrative samples
+│   │   ├── mixed/              # Mixed human+AI samples
+│   │   └── edge_cases/         # Edge case samples
+│   ├── sample_loader.py        # YAML sample loader (provides backward-compatible API)
+│   ├── test_samples.py         # Shim: re-exports 17 original samples from loader
+│   ├── test_samples_expanded.py # Shim: re-exports 20 expanded samples from loader
+│   └── test_samples_generated.py # Shim: re-exports 6 Ollama samples from loader
 ├── scripts/
 │   ├── run_test_samples.py     # Basic test runner
 │   ├── run_generated_samples.py # Cross-architecture comparison
 │   ├── run_alt_model.py        # Alternative model pair runner
 │   ├── calibrate_thresholds.py # Statistical threshold calibration
 │   ├── diagnose_scores.py      # PPL/X-PPL component decomposition
-│   └── download_models.py      # HuggingFace model downloader
+│   ├── download_models.py      # HuggingFace model downloader
+│   ├── add_sample.py           # Helper to create new YAML sample files
+│   └── migrate_samples_to_yaml.py # One-time migration (already run)
 ├── grant_assist/               # Symlink to the Grant Assist repo
 ├── RESULTS.md                  # Full experiment results and analysis
 ├── MacStudioPlan.md            # Implementation plan and architecture decisions
@@ -72,4 +88,6 @@ The local server (`binoculars_local/server.py`) exposes the same `POST /detect` 
 - **Test alternative model pair:** `python scripts/run_alt_model.py --model-pair qwen2.5-7b`
 - **Recalibrate thresholds:** `python scripts/calibrate_thresholds.py`
 - **Diagnose score components:** `python scripts/diagnose_scores.py`
-- **Add test samples:** Edit `tests/test_samples.py` or `tests/test_samples_expanded.py`
+- **Add test sample from chatbot output:** `python scripts/add_sample.py --id <id> --section "Specific Aims" --source <model> --prompt "..." --text-file output.txt`
+- **Add test sample interactively:** `python scripts/add_sample.py --interactive`
+- **Add test sample from clipboard (macOS):** `pbpaste | python scripts/add_sample.py --id <id> --section "..." --source <model> --text-file -`

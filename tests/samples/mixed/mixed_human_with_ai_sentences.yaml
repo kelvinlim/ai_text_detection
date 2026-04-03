@@ -1,0 +1,9 @@
+id: mixed_human_with_ai_sentences
+label: mixed
+section: Approach (mixed)
+category: mixed
+origin: mixed_edited
+date_created: '2026-04-01'
+description: Mostly human with individual AI-generated sentences inserted
+text: |-
+  For Aim 3, we'll use our existing colony of Nf1-flox mice crossed with GFAP-Cre to delete neurofibromin specifically in astrocytes. These mice develop optic pathway gliomas by 3 months of age with about 85% penetrance — we've been working with this model since 2017 and have a good handle on the variability. The proposed experiments will utilize state-of-the-art in vivo two-photon calcium imaging to characterize neuronal activity patterns in the visual cortex of tumor-bearing animals with unprecedented spatial and temporal resolution. We'll implant cranial windows over V1 at P45, before tumors are detectable on MRI, and start imaging weekly. The hard part is keeping the windows clear — we lose about 20% to bone regrowth or inflammation, which is why we always start with 15 mice per group rather than the 10 that the power analysis suggests.

@@ -1,0 +1,12 @@
+id: ai_exp_biosketch_2
+label: ai_generated
+section: Biosketch Narrative
+category: ai_expanded
+origin: claude_generated
+source: claude-3.5-sonnet
+date_created: '2026-04-01'
+prompt: |-
+  Write a Biosketch personal statement for an NIH grant PI with an interdisciplinary background in biomedical engineering and tumor immunology, with an NSF CAREER Award.
+prompt_reconstructed: true
+text: |-
+  The principal investigator brings a unique and highly relevant combination of expertise in biomedical engineering and immunology that is ideally suited for the proposed research. Following doctoral training in biomedical engineering at a leading research university, the principal investigator completed postdoctoral training in tumor immunology, where foundational expertise in the design and characterization of immunomodulatory biomaterials was developed. This interdisciplinary training has enabled the establishment of a research program at the intersection of materials science and cancer immunology. The principal investigator has been recognized with several prestigious awards, including a National Science Foundation CAREER Award and a Department of Defense Breakthrough Award. These accomplishments demonstrate the productivity, innovation, and scientific leadership necessary to ensure the successful completion of the proposed research program.

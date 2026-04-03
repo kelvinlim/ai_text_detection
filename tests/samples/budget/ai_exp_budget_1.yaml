@@ -1,0 +1,12 @@
+id: ai_exp_budget_1
+label: ai_generated
+section: Budget Justification
+category: ai_expanded
+origin: claude_generated
+source: claude-3.5-sonnet
+date_created: '2026-04-01'
+prompt: |-
+  Write a Budget Justification section for an NIH grant covering PI effort, a postdoc, a graduate student, supplies for molecular biology, and animal costs.
+prompt_reconstructed: true
+text: |-
+  Personnel costs represent the largest component of the proposed budget and are essential for the successful execution of the research plan. The principal investigator will devote 30% effort to this project, providing scientific direction, experimental design, data interpretation, and manuscript preparation. A postdoctoral research associate will be supported at 100% effort to conduct the primary experimental work described in Specific Aims 1 and 2, including cell culture, molecular biology assays, and animal model experiments. A graduate research assistant at 50% effort will support the computational analyses described in Specific Aim 3, including bioinformatic pipeline development and statistical modeling. Supply costs include reagents for molecular biology experiments, cell culture media and supplements, antibodies for immunoassays, and sequencing library preparation kits. Animal costs are calculated based on the number of experimental animals required as determined by our power analyses.

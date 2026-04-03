@@ -1,0 +1,9 @@
+id: edge_references
+label: skip
+section: References
+category: edge_case
+origin: handwritten
+date_created: '2026-04-01'
+description: Bibliography — formulaic regardless of authorship, should be excluded
+text: |-
+  1. Smith JA, Johnson BC, Williams KL. Microglial activation in Alzheimer's disease: a systematic review and meta-analysis. J Neuroinflammation. 2023;20(1):145-162. doi:10.1186/s12974-023-02831-x. 2. Chen Y, Liu M, Zhang R, et al. NLRP3 inflammasome activation promotes tau pathology in transgenic mice. Nat Neurosci. 2022;25(3):388-401. doi:10.1038/s41593-022-01034-w. 3. Park SH, Kim DW, Lee JH. Complement-mediated synaptic pruning in neurodegenerative disease. Annu Rev Neurosci. 2024;47:231-258. 4. Rodriguez-Perez AI, Borrajo A, Diaz-Ruiz C, Garrido-Gil P, Labandeira-Garcia JL. Crosstalk between insulin-like growth factor-1 and angiotensin-II in dopaminergic neurons and glial cells: role in neuroinflammation and aging. Oncotarget. 2016;7(21):30049-30067.
